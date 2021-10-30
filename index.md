@@ -14,17 +14,17 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 ### Mis Skills son
 
 - Python
-- R
-- Excel
+- Scala
+- Spark
 - ...
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
+- [LinkedIn](https://www.linkedin.com/in/KevVillamil/)
 - Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
+- [GitHub](https://github.com/kevinerv/)
 - [Twitter](https://twitter.com/tu-twitter)
 - [Medium](https://medium.com/@tu-medium)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
